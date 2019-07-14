@@ -1,0 +1,8 @@
+black/ -black1.png,black2.jpg,black3.png,black4.jpg,black5.jpg,black6.png,black7.jpg,black8.jpg,black9.jpg,black10.png
+blue/ -blue1.jpg,blue2.jpg,blue3.png,blue4.jpg,blue5.jpg,blue6.jpg,blue7.jpg,blue8.jpg,blue9.png,blue10.png
+green/ -green1.jpg,green1.png,green2.png,green3.jpg,green4.jpg,green5.jpg,green6.png,green7.png,green8.png,green9.png,green10.png
+orange/ -orange1.png,orange2.png,orange3.png,orange5.png,orange6.png,orange7.png,orange8.jpg,orange9.jpg,orange10.png
+red/ -red1.jpg,red2.jpg,red3.jpg,red4.png,red5.jpg,red6.jpg,red7.png,red8.jpg,red9.png,red10.jpg
+violet/ -violet1.png,violet2.jpg,violet3.jpg,violet4.jpg,violet5.png,violet6.png,violet7.jpg,violet8.png,violet9.png,violet10.png
+white/ -white1.png,white2.png,white3.png,white4.png,white5.jpg,white6.jpg,white7.jpg,white8.png,white9.jpg,white10.jpg
+yellow/ -yellow1.jpg,yellow2.png,yellow3.jpg,yellow4.png,yellow5.png,yellow6.png,yellow7.jpg,yellow8.jpg,yellow9.jpg,yellow10.png
